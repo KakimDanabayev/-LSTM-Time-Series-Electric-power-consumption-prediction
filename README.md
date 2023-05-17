@@ -1,5 +1,6 @@
 # -Time-Series-Electric-power-consumption-prediction
-<p style="font-size: 40px; font-weight: bold; text-align: center;">Household electric power consumption</p>
+![r596733_3855280](https://github.com/KakimDanabayev/-Time-Series-Electric-power-consumption-prediction/assets/127029668/83c9ba4e-439d-4164-b390-83a269dcf4da)
+
 
 The Household Power Consumption dataset is a multivariate time series dataset that describes the electricity consumption for a single household over four years. The data was collected between December 2006 and November 2010 and observations of power consumption within the household were collected every minute. 
 
