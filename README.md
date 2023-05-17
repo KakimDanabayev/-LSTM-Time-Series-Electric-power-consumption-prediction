@@ -1,4 +1,4 @@
-# -Time-Series-Electric-power-consumption-prediction
+# - LSTM Time-Series-Electric-power-consumption-prediction
 ![r596733_3855280](https://github.com/KakimDanabayev/-Time-Series-Electric-power-consumption-prediction/assets/127029668/83c9ba4e-439d-4164-b390-83a269dcf4da)
 
 
