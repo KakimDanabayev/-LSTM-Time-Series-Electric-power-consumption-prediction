@@ -1,8 +1,13 @@
 # -Time-Series-Electric-power-consumption-prediction
+<p style="font-size: 40px; font-weight: bold; text-align: center;">Household electric power consumption</p>
+
 The Household Power Consumption dataset is a multivariate time series dataset that describes the electricity consumption for a single household over four years. The data was collected between December 2006 and November 2010 and observations of power consumption within the household were collected every minute. 
-# -Objective 
+
+## Objective 
+
 Conduct an analysis of multivariate time series of electrical power counsumption and use LSTM to predict future average daily consumption of electricity using the past values, develop and compare different approaches to time-series problems.
-# Dataset Information
+
+## Dataset Information
     
 The Household Power Consumption dataset is a multivariate time series dataset that describes the electricity consumption for a single household over four years. The data was collected between December 2006 and November 2010 and observations of power consumption within the household were collected every minute. It is a multivariate series comprised of seven variables (besides the date and time); they are:
 
@@ -14,7 +19,7 @@ The Household Power Consumption dataset is a multivariate time series dataset th
 - sub metering 2: Active energy for laundry (watt-hours of active energy).
 - sub metering 3: Active energy for climate control systems (watt-hours of active energy).
 
-#Role 
+## Role 
 
 Worked 21 hours a week as a data scientist to perform and developed a model that could electric power consumption. I used different analysing techniques, data preprocessing and visualisation. Then, I moved to the feature engineering part where I used various techniques that included feature selection, building and testing LSTM model, tuning the model, fine  hyperparameters, with final models evaluation & reporting.
 
