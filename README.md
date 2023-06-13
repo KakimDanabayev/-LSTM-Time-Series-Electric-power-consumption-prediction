@@ -22,7 +22,7 @@ The Household Power Consumption dataset is a multivariate time series dataset th
 
 ## Role 
 
-Worked 21 hours a week as a data scientist to perform and developed a model that could electric power consumption. I used different analysing techniques, data preprocessing and visualisation. Then, I moved to the feature engineering part where I used various techniques that included feature selection, building and testing LSTM model, tuning the model, fine  hyperparameters, with final models evaluation & reporting.
+Worked 21 hours a week as a data scientist to perform and developed a model that could electric power consumption. I used different analyzing techniques, data preprocessing, and visualization. Then, I moved to the feature engineering part where I used various techniques that included feature selection, building and testing the LSTM model, tuning the model, and fine hyperparameters, with final models evaluation & reporting.
 
 
 The description of data can be found here "http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">
