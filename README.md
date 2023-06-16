@@ -6,7 +6,7 @@ The Household Power Consumption dataset is a multivariate time series dataset th
 
 ## Objective 
 
-Conduct an analysis of multivariate time series of electrical power counsumption and use LSTM to predict future average daily consumption of electricity using the past values, develop and compare different approaches to time-series problems.
+Conduct an analysis of multivariate time series of electrical power consumption and use LSTM to predict future average daily consumption of electricity using the past values, develop and compare different approaches to time-series problems.
 
 ## Dataset Information
     
@@ -16,7 +16,7 @@ The Household Power Consumption dataset is a multivariate time series dataset th
 - global reactive power: The total reactive power consumed by the household (kilowatts).
 - voltage: Average voltage (volts).
 - global intensity: Average current intensity (amps).
-- sub metering 1: Active energy for kitchen (watt-hours of active energy).
+- sub metering 1: Active energy for the kitchen (watt-hours of active energy).
 - sub metering 2: Active energy for laundry (watt-hours of active energy).
 - sub metering 3: Active energy for climate control systems (watt-hours of active energy).
 
